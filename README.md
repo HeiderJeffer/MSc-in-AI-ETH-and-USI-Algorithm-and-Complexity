@@ -1,4 +1,4 @@
-# <span class="smallcaps">UNIVERSITÀ DELLA SVIZZERA ITALIANA</span>
+# <span class="smallcaps">ETH and UNIVERSITÀ DELLA SVIZZERA ITALIANA</span>
 
 # FACULTY OF COMPUTER SCIENCE
 
