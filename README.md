@@ -4,14 +4,11 @@
 
 # Master in Artificial Intelligence
 
-# Topic: Algorithm and Complexity \[2014\]
+# Topic: Algorithm and Complexity in Artificial Intelligence \[2014\]
 
 #### Speaker: Heider Jeffer. 
 #### Instructor: Dean Prof. Mehdi Jazayeri. 
 #### Assistant: Dr. Sasa Nesic.
-
-
-**Algorithm and Complexity in Artificial Intelligence**
 
 *Abstract*
 
