@@ -6,8 +6,6 @@
 
 # Topic: Algorithm and Complexity \[2014\]
 
-By Heider Jeffer
-
 #### Speaker: Heider Jeffer. 
 #### Instructor: Dean Prof. Mehdi Jazayeri. 
 #### Assistant: Dr. Sasa Nesic.
