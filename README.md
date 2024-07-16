@@ -1,10 +1,12 @@
-# <span class="smallcaps">ETH and UNIVERSITÀ DELLA SVIZZERA ITALIANA</span>
+<body>
+<img src = "https://github-vistors-counter.onrender.com/github?username=https://github.com/HeiderJeffer/MSc-in-AI-ETH-and-USI-Algorithm-and-Complexity" alt = "Visitors-Counter"/>
+</body>
 
-# FACULTY OF COMPUTER SCIENCE
+#### <span class="smallcaps">ETH Zurich - UNIVERSITÀ DELLA SVIZZERA ITALIANA</span>
 
-# Master in Artificial Intelligence
+#### FACULTY OF COMPUTER SCIENCE - Master in Artificial Intelligence
 
-# Topic: Algorithm and Complexity in Artificial Intelligence \[2014\]
+#### Topic: Algorithm and Complexity in Artificial Intelligence \[2014\]
 
 #### Speaker: Heider Jeffer. 
 #### Instructor: Dean Prof. Mehdi Jazayeri. 
